@@ -1,0 +1,9 @@
+C:\Projects\UC.XMLEducator\UC.XMLEducator\bin\Debug\UC.XMLEducator.exe.config
+C:\Projects\UC.XMLEducator\UC.XMLEducator\bin\Debug\UC.XMLEducator.exe
+C:\Projects\UC.XMLEducator\UC.XMLEducator\bin\Debug\UC.XMLEducator.pdb
+C:\Projects\UC.XMLEducator\UC.XMLEducator\obj\Debug\UC.XMLEducator.csprojResolveAssemblyReference.cache
+C:\Projects\UC.XMLEducator\UC.XMLEducator\obj\Debug\UC.XMLEducator.Form1.resources
+C:\Projects\UC.XMLEducator\UC.XMLEducator\obj\Debug\UC.XMLEducator.Properties.Resources.resources
+C:\Projects\UC.XMLEducator\UC.XMLEducator\obj\Debug\UC.XMLEducator.csproj.GenerateResource.Cache
+C:\Projects\UC.XMLEducator\UC.XMLEducator\obj\Debug\UC.XMLEducator.exe
+C:\Projects\UC.XMLEducator\UC.XMLEducator\obj\Debug\UC.XMLEducator.pdb
